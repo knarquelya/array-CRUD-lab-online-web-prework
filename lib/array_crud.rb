@@ -1,13 +1,13 @@
 def create_an_empty_array
-  
+  [] 
 end
 
 def create_an_array
-  
+  ["Knarquelya", "Knartara", "Kathy", "Kanaja"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  create_an_array << "Ta'Lyn"
 end
 
 def add_element_to_start_of_array(array, element)
